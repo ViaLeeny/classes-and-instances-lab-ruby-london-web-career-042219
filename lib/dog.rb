@@ -1,0 +1,4 @@
+def deg 
+  
+  
+end 
