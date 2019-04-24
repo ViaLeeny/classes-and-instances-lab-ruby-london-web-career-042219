@@ -1,4 +1,4 @@
-def deg 
+def dog 
   
   
 end 
